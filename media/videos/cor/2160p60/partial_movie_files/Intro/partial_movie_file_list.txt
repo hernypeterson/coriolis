@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/henry/Python/manim/coriolis/media/videos/cor/2160p60/partial_movie_files/Intro/3215718966_2920568145_2549104142.mp4'
+file 'file:/Users/henry/Python/manim/coriolis/media/videos/cor/2160p60/partial_movie_files/Intro/1370976784_398514950_1699228339.mp4'
+file 'file:/Users/henry/Python/manim/coriolis/media/videos/cor/2160p60/partial_movie_files/Intro/1370976784_628502644_3081887738.mp4'
+file 'file:/Users/henry/Python/manim/coriolis/media/videos/cor/2160p60/partial_movie_files/Intro/1370976784_398514950_2961346195.mp4'
+file 'file:/Users/henry/Python/manim/coriolis/media/videos/cor/2160p60/partial_movie_files/Intro/1370976784_2205790684_3484275392.mp4'

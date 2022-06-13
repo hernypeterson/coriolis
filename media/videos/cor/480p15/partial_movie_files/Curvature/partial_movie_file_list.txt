@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/henry/Python/manim/coriolis/media/videos/cor/480p15/partial_movie_files/Curvature/3163782288_640014281_3572678478.mp4'
+file 'file:/Users/henry/Python/manim/coriolis/media/videos/cor/480p15/partial_movie_files/Curvature/2201830969_2609026111_3572678478.mp4'
+file 'file:/Users/henry/Python/manim/coriolis/media/videos/cor/480p15/partial_movie_files/Curvature/2201830969_1663484169_3681406957.mp4'
